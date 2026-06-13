@@ -32,26 +32,13 @@ The purpose of this lab was to simulate a small enterprise network environment a
 - PowerShell
 
 ---
+## Lab Architecture
 
-# Lab Architecture
-
-
-Windows 10 Client
-
-        |
-        |
-        |
-
-Windows Server 2022
-
-        |
-        |
-        
-Active Directory
-DNS
-DHCP
-
-
+| Layer | Component | IP |
+|---|---|---|
+| Client | Windows 10 | 192.168.1.x (DHCP) |
+| Server | Windows Server 2022 | 192.168.1.10 (Static) |
+| Services | AD DS, DNS, DHCP | corp.local |
 ---
 
 # Implemented Features
