@@ -70,12 +70,6 @@ Your Physical Machine
 
 ---
 
-## CV / LinkedIn Entry
-
-> Built an Active Directory home lab using Windows Server 2022 and Windows 10, configuring Active Directory Domain Services, DNS, DHCP, Organizational Units, Group Policy Objects, and managing 16 domain user accounts across 4 departments in a simulated enterprise environment.
-
----
-
 ## Files in This Repo
 
 | File | Description |
